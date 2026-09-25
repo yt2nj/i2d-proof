@@ -1,0 +1,44 @@
+I2D FILE COMMITMENT MANIFEST v1
+
+Claimant: Yi-Han Wang
+Affiliation: School of Artificial Intelligence, Nanjing University
+Institutional email: wangyh@lamda.nju.edu.cn
+Official homepage: https://www.lamda.nju.edu.cn/wangyh/
+GitHub: https://github.com/yt2nj
+
+This manifest commits to the exact byte contents of the files below.
+The files themselves are not published at this time.
+
+At the time of this version, closely related work is being developed contemporaneously,
+and we have chosen not to release this manuscript publicly.
+
+To preserve a verifiable record of provenance without premature disclosure,
+this exact version is being cryptographically committed and publicly timestamped,
+while the underlying files remain private.
+
+This record is intended to establish the existence of this specific version
+by the recorded time, rather than, by itself, to determine authorship or scholarly priority.
+
+FILE: i2d.pdf
+media_type: application/pdf
+size_bytes: 597014
+SHA-224: b8e51283ef5e2a14cf2ba290d5698652f30ef8a4145126c01c03b6bf
+SHA-256: 2c728a7e6dc47329e59e498d5fd879efbe69c0f5db78ee54d8a0ebc0620ca5e8
+SHA-384: dbb010365a1ccde47af781eee41d882dcf26e83a5b89ff2c35051aa27416c6814abd3874cb1758d13f7ab2d305dc4c48
+SHA-512: 145debe1cd412c674a61dcc0830953ea5d27e05a0b01285d2c2347924a1849fc034a4650b049b381f9f03e01dce0c3d388baac0310dc253fb9b2d2ed2557ee72
+SHA3-224: 5c03fbe70b488e9d40193e5320e7d6dd58e2eba8811f8bf1452b2659
+SHA3-256: 86db7ebcf5719df9430b63b5a4da0d5595cae3ae9f4010e637591e13f775cd2e
+SHA3-384: 05e8a0b2edab35169a3ecba2254096cf44158b0f9699c7b31f050ead1e6891c1175236cd7f4bf567f0afdff4c20a89f3
+SHA3-512: f81117577c56d3fb9928a172218a96391fddca0876e1a569681d486443dcdb18ebc91bafa8d043aab200f3684c504f9b50b45c489b4c6f11a822538231497f98
+
+FILE: i2d.zip
+media_type: application/zip
+size_bytes: 40582
+SHA-224: 380706dbd3c7d97935099710807a5b0929cee8b5bf5f0027274af6ff
+SHA-256: 122b72f3f5f3387e9522100dd8b89919d2fd7cdfdbb4d7cfb1b6f4f52d077915
+SHA-384: ad7ac168b86c906fb269a525bc24b84543db8b1345168c7100969df2ee353e026cbe3efe7a4ff70b6a985791cefe71b7
+SHA-512: 12e73f5094b0fd6010f26edd8ce1b78bece10577afe03bcd036e706834b8a938d12f5e5407fe9c60fec5a46fffbf3dd4dddd7fd46aec5e3eb1d853145ff76786
+SHA3-224: b891dee6b6c2ce72163a5b1e4533b03d3d5cbd8d49271a41c713ff84
+SHA3-256: f5245120fd441c1a84badadf0e9b84fb5d9b5484f3a2080fe400187e980ad01c
+SHA3-384: a795644a0629d624432f25c7c3710b470976b20c9643036d9a4f493ec155ac8da02f7ff21dc32a446daa99c925a38d8d
+SHA3-512: bb8af34efeaea188f69435b80df284b18e7d0d5a993e85499f63cadf046e85e538ad2600325d7c2f8d312e07b4a19da94288140b6d619f3e6a863373b7e6f943
